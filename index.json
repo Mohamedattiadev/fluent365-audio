@@ -1,0 +1,1475 @@
+{
+ "about": "Fluent365 audiobooks read by Microsoft Edge neural voices (narrator en-US-Ava; dialogue in character voices). Text: public domain (Project Gutenberg). Made with scripts/gen-book-audio.py.",
+ "books": {
+  "around-the-world": {
+   "chapters": [
+    {
+     "title": "Chapter I. — IN WHICH PHILEAS FOGG AND PASSEPARTOUT ACCEPT EACH OTHER, THE ONE AS MASTER, THE OTHER AS MAN",
+     "file": "around-the-world/01.webm",
+     "timing": "around-the-world/01.json",
+     "seconds": 626.4,
+     "bytes": 1954388
+    },
+    {
+     "title": "Chapter II. — IN WHICH PASSEPARTOUT IS CONVINCED THAT HE HAS AT LAST FOUND HIS IDEAL",
+     "file": "around-the-world/02.webm",
+     "timing": "around-the-world/02.json",
+     "seconds": 485.6,
+     "bytes": 1542763
+    },
+    {
+     "title": "Chapter III. — IN WHICH A CONVERSATION TAKES PLACE WHICH SEEMS LIKELY TO COST PHILEAS FOGG DEAR",
+     "file": "around-the-world/03.webm",
+     "timing": "around-the-world/03.json",
+     "seconds": 925.2,
+     "bytes": 2791834
+    },
+    {
+     "title": "Chapter IV. — IN WHICH PHILEAS FOGG ASTOUNDS PASSEPARTOUT, HIS SERVANT",
+     "file": "around-the-world/04.webm",
+     "timing": "around-the-world/04.json",
+     "seconds": 465.0,
+     "bytes": 1387693
+    },
+    {
+     "title": "Chapter V. — IN WHICH A NEW SPECIES OF FUNDS, UNKNOWN TO THE MONEYED MEN, APPEARS ON ’CHANGE",
+     "file": "around-the-world/05.webm",
+     "timing": "around-the-world/05.json",
+     "seconds": 400.1,
+     "bytes": 1260432
+    },
+    {
+     "title": "Chapter VI. — IN WHICH FIX, THE DETECTIVE, BETRAYS A VERY NATURAL IMPATIENCE",
+     "file": "around-the-world/06.webm",
+     "timing": "around-the-world/06.json",
+     "seconds": 580.7,
+     "bytes": 1774502
+    },
+    {
+     "title": "Chapter VII. — WHICH ONCE MORE DEMONSTRATES THE USELESSNESS OF PASSPORTS AS AIDS TO DETECTIVES",
+     "file": "around-the-world/07.webm",
+     "timing": "around-the-world/07.json",
+     "seconds": 381.3,
+     "bytes": 1131972
+    },
+    {
+     "title": "Chapter VIII. — IN WHICH PASSEPARTOUT TALKS RATHER MORE, PERHAPS, THAN IS PRUDENT",
+     "file": "around-the-world/08.webm",
+     "timing": "around-the-world/08.json",
+     "seconds": 507.4,
+     "bytes": 1479805
+    },
+    {
+     "title": "Chapter IX. — IN WHICH THE RED SEA AND THE INDIAN OCEAN PROVE PROPITIOUS TO THE DESIGNS OF PHILEAS FOGG",
+     "file": "around-the-world/09.webm",
+     "timing": "around-the-world/09.json",
+     "seconds": 699.6,
+     "bytes": 2167694
+    },
+    {
+     "title": "Chapter X. — IN WHICH PASSEPARTOUT IS ONLY TOO GLAD TO GET OFF WITH THE LOSS OF HIS SHOES",
+     "file": "around-the-world/10.webm",
+     "timing": "around-the-world/10.json",
+     "seconds": 689.5,
+     "bytes": 2168107
+    },
+    {
+     "title": "Chapter XI. — IN WHICH PHILEAS FOGG SECURES A CURIOUS MEANS OF CONVEYANCE AT A FABULOUS PRICE",
+     "file": "around-the-world/11.webm",
+     "timing": "around-the-world/11.json",
+     "seconds": 1117.7,
+     "bytes": 3491161
+    },
+    {
+     "title": "Chapter XII. — IN WHICH PHILEAS FOGG AND HIS COMPANIONS VENTURE ACROSS THE INDIAN FORESTS, AND WHAT ENSUED",
+     "file": "around-the-world/12.webm",
+     "timing": "around-the-world/12.json",
+     "seconds": 925.6,
+     "bytes": 2879689
+    },
+    {
+     "title": "Chapter XIII. — IN WHICH PASSEPARTOUT RECEIVES A NEW PROOF THAT FORTUNE FAVORS THE BRAVE",
+     "file": "around-the-world/13.webm",
+     "timing": "around-the-world/13.json",
+     "seconds": 871.1,
+     "bytes": 2706170
+    },
+    {
+     "title": "Chapter XIV. — IN WHICH PHILEAS FOGG DESCENDS THE WHOLE LENGTH OF THE BEAUTIFUL VALLEY OF THE GANGES WITHOUT EVER THINKING OF SEEING IT",
+     "file": "around-the-world/14.webm",
+     "timing": "around-the-world/14.json",
+     "seconds": 847.1,
+     "bytes": 2664677
+    },
+    {
+     "title": "Chapter XV. — IN WHICH THE BAG OF BANKNOTES DISGORGES SOME THOUSANDS OF POUNDS MORE",
+     "file": "around-the-world/15.webm",
+     "timing": "around-the-world/15.json",
+     "seconds": 864.6,
+     "bytes": 2589995
+    },
+    {
+     "title": "Chapter XVI. — IN WHICH FIX DOES NOT SEEM TO UNDERSTAND IN THE LEAST WHAT IS SAID TO HIM",
+     "file": "around-the-world/16.webm",
+     "timing": "around-the-world/16.json",
+     "seconds": 678.3,
+     "bytes": 2108424
+    },
+    {
+     "title": "Chapter XVII. — SHOWING WHAT HAPPENED ON THE VOYAGE FROM SINGAPORE TO HONG KONG",
+     "file": "around-the-world/17.webm",
+     "timing": "around-the-world/17.json",
+     "seconds": 761.7,
+     "bytes": 2361397
+    },
+    {
+     "title": "Chapter XVIII. — IN WHICH PHILEAS FOGG, PASSEPARTOUT, AND FIX GO EACH ABOUT HIS BUSINESS",
+     "file": "around-the-world/18.webm",
+     "timing": "around-the-world/18.json",
+     "seconds": 596.9,
+     "bytes": 1843809
+    },
+    {
+     "title": "Chapter XIX. — IN WHICH PASSEPARTOUT TAKES A TOO GREAT INTEREST IN HIS MASTER, AND WHAT COMES OF IT",
+     "file": "around-the-world/19.webm",
+     "timing": "around-the-world/19.json",
+     "seconds": 946.5,
+     "bytes": 2823741
+    },
+    {
+     "title": "Chapter XX. — IN WHICH FIX COMES FACE TO FACE WITH PHILEAS FOGG",
+     "file": "around-the-world/20.webm",
+     "timing": "around-the-world/20.json",
+     "seconds": 813.7,
+     "bytes": 2423322
+    },
+    {
+     "title": "Chapter XXI. — IN WHICH THE MASTER OF THE “TANKADERE” RUNS GREAT RISK OF LOSING A REWARD OF TWO HUNDRED POUNDS",
+     "file": "around-the-world/21.webm",
+     "timing": "around-the-world/21.json",
+     "seconds": 1096.3,
+     "bytes": 3368619
+    },
+    {
+     "title": "Chapter XXII. — IN WHICH PASSEPARTOUT FINDS OUT THAT, EVEN AT THE ANTIPODES, IT IS CONVENIENT TO HAVE SOME MONEY IN ONE’S POCKET",
+     "file": "around-the-world/22.webm",
+     "timing": "around-the-world/22.json",
+     "seconds": 910.1,
+     "bytes": 2842928
+    },
+    {
+     "title": "Chapter XXIII. — IN WHICH PASSEPARTOUT’S NOSE BECOMES OUTRAGEOUSLY LONG",
+     "file": "around-the-world/23.webm",
+     "timing": "around-the-world/23.json",
+     "seconds": 852.4,
+     "bytes": 2626035
+    },
+    {
+     "title": "Chapter XXIV. — DURING WHICH MR. FOGG AND PARTY CROSS THE PACIFIC OCEAN",
+     "file": "around-the-world/24.webm",
+     "timing": "around-the-world/24.json",
+     "seconds": 847.3,
+     "bytes": 2608138
+    },
+    {
+     "title": "Chapter XXV. — IN WHICH A SLIGHT GLIMPSE IS HAD OF SAN FRANCISCO",
+     "file": "around-the-world/25.webm",
+     "timing": "around-the-world/25.json",
+     "seconds": 890.7,
+     "bytes": 2741501
+    },
+    {
+     "title": "Chapter XXVI. — IN WHICH PHILEAS FOGG AND PARTY TRAVEL BY THE PACIFIC RAILROAD",
+     "file": "around-the-world/26.webm",
+     "timing": "around-the-world/26.json",
+     "seconds": 688.5,
+     "bytes": 2186015
+    },
+    {
+     "title": "Chapter XXVII. — IN WHICH PASSEPARTOUT UNDERGOES, AT A SPEED OF TWENTY MILES AN HOUR, A COURSE OF MORMON HISTORY",
+     "file": "around-the-world/27.webm",
+     "timing": "around-the-world/27.json",
+     "seconds": 870.4,
+     "bytes": 2746172
+    },
+    {
+     "title": "Chapter XXVIII. — IN WHICH PASSEPARTOUT DOES NOT SUCCEED IN MAKING ANYBODY LISTEN TO REASON",
+     "file": "around-the-world/28.webm",
+     "timing": "around-the-world/28.json",
+     "seconds": 1106.1,
+     "bytes": 3357322
+    },
+    {
+     "title": "Chapter XXIX. — IN WHICH CERTAIN INCIDENTS ARE NARRATED WHICH ARE ONLY TO BE MET WITH ON AMERICAN RAILROADS",
+     "file": "around-the-world/29.webm",
+     "timing": "around-the-world/29.json",
+     "seconds": 954.9,
+     "bytes": 2904906
+    },
+    {
+     "title": "Chapter XXX. — IN WHICH PHILEAS FOGG SIMPLY DOES HIS DUTY",
+     "file": "around-the-world/30.webm",
+     "timing": "around-the-world/30.json",
+     "seconds": 948.9,
+     "bytes": 2873650
+    },
+    {
+     "title": "Chapter XXXI. — IN WHICH FIX, THE DETECTIVE, CONSIDERABLY FURTHERS THE INTERESTS OF PHILEAS FOGG",
+     "file": "around-the-world/31.webm",
+     "timing": "around-the-world/31.json",
+     "seconds": 775.9,
+     "bytes": 2414275
+    },
+    {
+     "title": "Chapter XXXII. — IN WHICH PHILEAS FOGG ENGAGES IN A DIRECT STRUGGLE WITH BAD FORTUNE",
+     "file": "around-the-world/32.webm",
+     "timing": "around-the-world/32.json",
+     "seconds": 511.1,
+     "bytes": 1493986
+    },
+    {
+     "title": "Chapter XXXIII. — IN WHICH PHILEAS FOGG SHOWS HIMSELF EQUAL TO THE OCCASION",
+     "file": "around-the-world/33.webm",
+     "timing": "around-the-world/33.json",
+     "seconds": 1117.0,
+     "bytes": 3378759
+    },
+    {
+     "title": "Chapter XXXIV. — IN WHICH PHILEAS FOGG AT LAST REACHES LONDON",
+     "file": "around-the-world/34.webm",
+     "timing": "around-the-world/34.json",
+     "seconds": 419.2,
+     "bytes": 1293431
+    },
+    {
+     "title": "Chapter XXXV. — IN WHICH PHILEAS FOGG DOES NOT HAVE TO REPEAT HIS ORDERS TO PASSEPARTOUT TWICE",
+     "file": "around-the-world/35.webm",
+     "timing": "around-the-world/35.json",
+     "seconds": 697.9,
+     "bytes": 2109974
+    },
+    {
+     "title": "Chapter XXXVI. — IN WHICH PHILEAS FOGG’S NAME IS ONCE MORE AT A PREMIUM ON ’CHANGE",
+     "file": "around-the-world/36.webm",
+     "timing": "around-the-world/36.json",
+     "seconds": 494.8,
+     "bytes": 1514130
+    },
+    {
+     "title": "Chapter XXXVII. — IN WHICH IT IS SHOWN THAT PHILEAS FOGG GAINED NOTHING BY HIS TOUR AROUND THE WORLD, UNLESS IT WERE HAPPINESS",
+     "file": "around-the-world/37.webm",
+     "timing": "around-the-world/37.json",
+     "seconds": 446.6,
+     "bytes": 1348340
+    }
+   ],
+   "complete": true,
+   "seconds": 27812,
+   "bytes": 85359756
+  },
+  "call-of-the-wild": {
+   "chapters": [
+    {
+     "title": "Chapter I. Into the Primitive",
+     "file": "call-of-the-wild/01.webm",
+     "timing": "call-of-the-wild/01.json",
+     "seconds": 1481.1,
+     "bytes": 4642824
+    },
+    {
+     "title": "Chapter II. The Law of Club and Fang",
+     "file": "call-of-the-wild/02.webm",
+     "timing": "call-of-the-wild/02.json",
+     "seconds": 1311.2,
+     "bytes": 4152924
+    },
+    {
+     "title": "Chapter III. The Dominant Primordial Beast",
+     "file": "call-of-the-wild/03.webm",
+     "timing": "call-of-the-wild/03.json",
+     "seconds": 1997.8,
+     "bytes": 6324732
+    },
+    {
+     "title": "Chapter IV. Who Has Won to Mastership",
+     "file": "call-of-the-wild/04.webm",
+     "timing": "call-of-the-wild/04.json",
+     "seconds": 1243.3,
+     "bytes": 3900830
+    },
+    {
+     "title": "Chapter V. The Toil of Trace and Trail",
+     "file": "call-of-the-wild/05.webm",
+     "timing": "call-of-the-wild/05.json",
+     "seconds": 2110.2,
+     "bytes": 6570141
+    },
+    {
+     "title": "Chapter VI. For the Love of a Man",
+     "file": "call-of-the-wild/06.webm",
+     "timing": "call-of-the-wild/06.json",
+     "seconds": 1899.5,
+     "bytes": 5954294
+    },
+    {
+     "title": "Chapter VII. The Sounding of the Call",
+     "file": "call-of-the-wild/07.webm",
+     "timing": "call-of-the-wild/07.json",
+     "seconds": 2397.2,
+     "bytes": 7646518
+    }
+   ],
+   "complete": true,
+   "seconds": 12440,
+   "bytes": 39192263
+  },
+  "hound-of-the-baskervilles": {
+   "chapters": [
+    {
+     "title": "Chapter 1. — Mr. Sherlock Holmes",
+     "file": "hound-of-the-baskervilles/01.webm",
+     "timing": "hound-of-the-baskervilles/01.json",
+     "seconds": 946.8,
+     "bytes": 2799855
+    },
+    {
+     "title": "Chapter 2. — The Curse of the Baskervilles",
+     "file": "hound-of-the-baskervilles/02.webm",
+     "timing": "hound-of-the-baskervilles/02.json",
+     "seconds": 1356.9,
+     "bytes": 4177819
+    },
+    {
+     "title": "Chapter 3. — The Problem",
+     "file": "hound-of-the-baskervilles/03.webm",
+     "timing": "hound-of-the-baskervilles/03.json",
+     "seconds": 1204.2,
+     "bytes": 3500397
+    },
+    {
+     "title": "Chapter 4. — Sir Henry Baskerville",
+     "file": "hound-of-the-baskervilles/04.webm",
+     "timing": "hound-of-the-baskervilles/04.json",
+     "seconds": 1652.6,
+     "bytes": 4838724
+    },
+    {
+     "title": "Chapter 5. — Three Broken Threads",
+     "file": "hound-of-the-baskervilles/05.webm",
+     "timing": "hound-of-the-baskervilles/05.json",
+     "seconds": 1434.1,
+     "bytes": 4137699
+    },
+    {
+     "title": "Chapter 6. — Baskerville Hall",
+     "file": "hound-of-the-baskervilles/06.webm",
+     "timing": "hound-of-the-baskervilles/06.json",
+     "seconds": 1371.6,
+     "bytes": 4201208
+    },
+    {
+     "title": "Chapter 7. — The Stapletons of Merripit House",
+     "file": "hound-of-the-baskervilles/07.webm",
+     "timing": "hound-of-the-baskervilles/07.json",
+     "seconds": 1939.7,
+     "bytes": 5836059
+    },
+    {
+     "title": "Chapter 8. — First Report of Dr. Watson",
+     "file": "hound-of-the-baskervilles/08.webm",
+     "timing": "hound-of-the-baskervilles/08.json",
+     "seconds": 980.3,
+     "bytes": 3098946
+    },
+    {
+     "title": "Chapter 9. — The Light upon the Moor [Second Report of Dr. Watson",
+     "file": "hound-of-the-baskervilles/09.webm",
+     "timing": "hound-of-the-baskervilles/09.json",
+     "seconds": 2407.8,
+     "bytes": 7351328
+    },
+    {
+     "title": "Chapter 10. — Extract from the Diary of Dr. Watson",
+     "file": "hound-of-the-baskervilles/10.webm",
+     "timing": "hound-of-the-baskervilles/10.json",
+     "seconds": 1358.3,
+     "bytes": 4079687
+    },
+    {
+     "title": "Chapter 11. — The Man on the Tor",
+     "file": "hound-of-the-baskervilles/11.webm",
+     "timing": "hound-of-the-baskervilles/11.json",
+     "seconds": 1717.7,
+     "bytes": 5205024
+    },
+    {
+     "title": "Chapter 12. — Death on the Moor",
+     "file": "hound-of-the-baskervilles/12.webm",
+     "timing": "hound-of-the-baskervilles/12.json",
+     "seconds": 1913.3,
+     "bytes": 5660780
+    },
+    {
+     "title": "Chapter 13. — Fixing the Nets",
+     "file": "hound-of-the-baskervilles/13.webm",
+     "timing": "hound-of-the-baskervilles/13.json",
+     "seconds": 1359.7,
+     "bytes": 4020331
+    },
+    {
+     "title": "Chapter 14. — The Hound of the Baskervilles",
+     "file": "hound-of-the-baskervilles/14.webm",
+     "timing": "hound-of-the-baskervilles/14.json",
+     "seconds": 1603.3,
+     "bytes": 4885819
+    },
+    {
+     "title": "Chapter 15. — A Retrospection",
+     "file": "hound-of-the-baskervilles/15.webm",
+     "timing": "hound-of-the-baskervilles/15.json",
+     "seconds": 1438.2,
+     "bytes": 4480223
+    }
+   ],
+   "complete": true,
+   "seconds": 22684,
+   "bytes": 68273899
+  },
+  "pride-and-prejudice": {
+   "chapters": [
+    {
+     "title": "Chapter I.",
+     "file": "pride-and-prejudice/01.webm",
+     "timing": "pride-and-prejudice/01.json",
+     "seconds": 346.6,
+     "bytes": 1035653
+    },
+    {
+     "title": "Chapter II.",
+     "file": "pride-and-prejudice/02.webm",
+     "timing": "pride-and-prejudice/02.json",
+     "seconds": 336.4,
+     "bytes": 1003462
+    },
+    {
+     "title": "Chapter III.",
+     "file": "pride-and-prejudice/03.webm",
+     "timing": "pride-and-prejudice/03.json",
+     "seconds": 690.0,
+     "bytes": 2157435
+    },
+    {
+     "title": "Chapter IV.",
+     "file": "pride-and-prejudice/04.webm",
+     "timing": "pride-and-prejudice/04.json",
+     "seconds": 420.5,
+     "bytes": 1321091
+    },
+    {
+     "title": "Chapter V.",
+     "file": "pride-and-prejudice/05.webm",
+     "timing": "pride-and-prejudice/05.json",
+     "seconds": 386.6,
+     "bytes": 1182578
+    },
+    {
+     "title": "Chapter VI.",
+     "file": "pride-and-prejudice/06.webm",
+     "timing": "pride-and-prejudice/06.json",
+     "seconds": 941.4,
+     "bytes": 2910161
+    },
+    {
+     "title": "Chapter VII.",
+     "file": "pride-and-prejudice/07.webm",
+     "timing": "pride-and-prejudice/07.json",
+     "seconds": 828.0,
+     "bytes": 2560179
+    },
+    {
+     "title": "Chapter VIII.",
+     "file": "pride-and-prejudice/08.webm",
+     "timing": "pride-and-prejudice/08.json",
+     "seconds": 822.4,
+     "bytes": 2504329
+    },
+    {
+     "title": "Chapter IX.",
+     "file": "pride-and-prejudice/09.webm",
+     "timing": "pride-and-prejudice/09.json",
+     "seconds": 724.8,
+     "bytes": 2220617
+    },
+    {
+     "title": "Chapter X.",
+     "file": "pride-and-prejudice/10.webm",
+     "timing": "pride-and-prejudice/10.json",
+     "seconds": 924.0,
+     "bytes": 2822077
+    },
+    {
+     "title": "Chapter XI.",
+     "file": "pride-and-prejudice/11.webm",
+     "timing": "pride-and-prejudice/11.json",
+     "seconds": 669.1,
+     "bytes": 2060148
+    },
+    {
+     "title": "Chapter XII.",
+     "file": "pride-and-prejudice/12.webm",
+     "timing": "pride-and-prejudice/12.json",
+     "seconds": 264.3,
+     "bytes": 843359
+    },
+    {
+     "title": "Chapter XIII",
+     "file": "pride-and-prejudice/13.webm",
+     "timing": "pride-and-prejudice/13.json",
+     "seconds": 662.1,
+     "bytes": 2038106
+    },
+    {
+     "title": "Chapter XIV",
+     "file": "pride-and-prejudice/14.webm",
+     "timing": "pride-and-prejudice/14.json",
+     "seconds": 471.9,
+     "bytes": 1468584
+    },
+    {
+     "title": "Chapter XV.",
+     "file": "pride-and-prejudice/15.webm",
+     "timing": "pride-and-prejudice/15.json",
+     "seconds": 670.4,
+     "bytes": 2150448
+    },
+    {
+     "title": "Chapter XVI.",
+     "file": "pride-and-prejudice/16.webm",
+     "timing": "pride-and-prejudice/16.json",
+     "seconds": 1398.2,
+     "bytes": 4342611
+    },
+    {
+     "title": "Chapter XVII.",
+     "file": "pride-and-prejudice/17.webm",
+     "timing": "pride-and-prejudice/17.json",
+     "seconds": 507.4,
+     "bytes": 1604341
+    },
+    {
+     "title": "Chapter XVIII.",
+     "file": "pride-and-prejudice/18.webm",
+     "timing": "pride-and-prejudice/18.json",
+     "seconds": 2070.5,
+     "bytes": 6494490
+    },
+    {
+     "title": "Chapter XIX.",
+     "file": "pride-and-prejudice/19.webm",
+     "timing": "pride-and-prejudice/19.json",
+     "seconds": 749.4,
+     "bytes": 2342251
+    },
+    {
+     "title": "Chapter XX.",
+     "file": "pride-and-prejudice/20.webm",
+     "timing": "pride-and-prejudice/20.json",
+     "seconds": 682.4,
+     "bytes": 2111750
+    },
+    {
+     "title": "Chapter XXI.",
+     "file": "pride-and-prejudice/21.webm",
+     "timing": "pride-and-prejudice/21.json",
+     "seconds": 763.2,
+     "bytes": 2391336
+    },
+    {
+     "title": "Chapter XXII.",
+     "file": "pride-and-prejudice/22.webm",
+     "timing": "pride-and-prejudice/22.json",
+     "seconds": 708.3,
+     "bytes": 2243001
+    },
+    {
+     "title": "Chapter XXIII.",
+     "file": "pride-and-prejudice/23.webm",
+     "timing": "pride-and-prejudice/23.json",
+     "seconds": 656.3,
+     "bytes": 2081054
+    },
+    {
+     "title": "Chapter XXIV.",
+     "file": "pride-and-prejudice/24.webm",
+     "timing": "pride-and-prejudice/24.json",
+     "seconds": 769.5,
+     "bytes": 2385635
+    },
+    {
+     "title": "Chapter XXV.",
+     "file": "pride-and-prejudice/25.webm",
+     "timing": "pride-and-prejudice/25.json",
+     "seconds": 611.2,
+     "bytes": 1913226
+    },
+    {
+     "title": "Chapter XXVI.",
+     "file": "pride-and-prejudice/26.webm",
+     "timing": "pride-and-prejudice/26.json",
+     "seconds": 907.6,
+     "bytes": 2836316
+    },
+    {
+     "title": "Chapter XXVII.",
+     "file": "pride-and-prejudice/27.webm",
+     "timing": "pride-and-prejudice/27.json",
+     "seconds": 517.5,
+     "bytes": 1616028
+    },
+    {
+     "title": "Chapter XXVIII.",
+     "file": "pride-and-prejudice/28.webm",
+     "timing": "pride-and-prejudice/28.json",
+     "seconds": 584.4,
+     "bytes": 1840986
+    },
+    {
+     "title": "Chapter XXIX.",
+     "file": "pride-and-prejudice/29.webm",
+     "timing": "pride-and-prejudice/29.json",
+     "seconds": 976.0,
+     "bytes": 3060345
+    },
+    {
+     "title": "Chapter XXX.",
+     "file": "pride-and-prejudice/30.webm",
+     "timing": "pride-and-prejudice/30.json",
+     "seconds": 493.9,
+     "bytes": 1570321
+    },
+    {
+     "title": "Chapter XXXI.",
+     "file": "pride-and-prejudice/31.webm",
+     "timing": "pride-and-prejudice/31.json",
+     "seconds": 628.9,
+     "bytes": 1936604
+    },
+    {
+     "title": "Chapter XXXII.",
+     "file": "pride-and-prejudice/32.webm",
+     "timing": "pride-and-prejudice/32.json",
+     "seconds": 607.0,
+     "bytes": 1893815
+    },
+    {
+     "title": "Chapter XXXIII.",
+     "file": "pride-and-prejudice/33.webm",
+     "timing": "pride-and-prejudice/33.json",
+     "seconds": 746.2,
+     "bytes": 2297471
+    },
+    {
+     "title": "Chapter XXXIV.",
+     "file": "pride-and-prejudice/34.webm",
+     "timing": "pride-and-prejudice/34.json",
+     "seconds": 856.9,
+     "bytes": 2676727
+    },
+    {
+     "title": "Chapter XXXV.",
+     "file": "pride-and-prejudice/35.webm",
+     "timing": "pride-and-prejudice/35.json",
+     "seconds": 1091.5,
+     "bytes": 3477506
+    },
+    {
+     "title": "Chapter XXXVI.",
+     "file": "pride-and-prejudice/36.webm",
+     "timing": "pride-and-prejudice/36.json",
+     "seconds": 832.6,
+     "bytes": 2659130
+    },
+    {
+     "title": "Chapter XXXVII.",
+     "file": "pride-and-prejudice/37.webm",
+     "timing": "pride-and-prejudice/37.json",
+     "seconds": 559.7,
+     "bytes": 1761481
+    },
+    {
+     "title": "Chapter XXXVIII.",
+     "file": "pride-and-prejudice/38.webm",
+     "timing": "pride-and-prejudice/38.json",
+     "seconds": 430.8,
+     "bytes": 1345560
+    },
+    {
+     "title": "Chapter XXXIX.",
+     "file": "pride-and-prejudice/39.webm",
+     "timing": "pride-and-prejudice/39.json",
+     "seconds": 619.4,
+     "bytes": 1917860
+    },
+    {
+     "title": "Chapter XL.",
+     "file": "pride-and-prejudice/40.webm",
+     "timing": "pride-and-prejudice/40.json",
+     "seconds": 680.8,
+     "bytes": 2107319
+    },
+    {
+     "title": "Chapter XLI.",
+     "file": "pride-and-prejudice/41.webm",
+     "timing": "pride-and-prejudice/41.json",
+     "seconds": 942.0,
+     "bytes": 2933569
+    },
+    {
+     "title": "Chapter XLII.",
+     "file": "pride-and-prejudice/42.webm",
+     "timing": "pride-and-prejudice/42.json",
+     "seconds": 733.3,
+     "bytes": 2330707
+    },
+    {
+     "title": "Chapter XLIII.",
+     "file": "pride-and-prejudice/43.webm",
+     "timing": "pride-and-prejudice/43.json",
+     "seconds": 1949.9,
+     "bytes": 6096231
+    },
+    {
+     "title": "Chapter XLIV.",
+     "file": "pride-and-prejudice/44.webm",
+     "timing": "pride-and-prejudice/44.json",
+     "seconds": 925.4,
+     "bytes": 2961496
+    },
+    {
+     "title": "Chapter XLV.",
+     "file": "pride-and-prejudice/45.webm",
+     "timing": "pride-and-prejudice/45.json",
+     "seconds": 707.2,
+     "bytes": 2246557
+    },
+    {
+     "title": "Chapter XLVI.",
+     "file": "pride-and-prejudice/46.webm",
+     "timing": "pride-and-prejudice/46.json",
+     "seconds": 1235.9,
+     "bytes": 3866026
+    },
+    {
+     "title": "Chapter XLVII.",
+     "file": "pride-and-prejudice/47.webm",
+     "timing": "pride-and-prejudice/47.json",
+     "seconds": 1546.9,
+     "bytes": 4788681
+    },
+    {
+     "title": "Chapter XLVIII.",
+     "file": "pride-and-prejudice/48.webm",
+     "timing": "pride-and-prejudice/48.json",
+     "seconds": 897.6,
+     "bytes": 2816343
+    },
+    {
+     "title": "Chapter XLIX.",
+     "file": "pride-and-prejudice/49.webm",
+     "timing": "pride-and-prejudice/49.json",
+     "seconds": 924.5,
+     "bytes": 2812177
+    },
+    {
+     "title": "Chapter L.",
+     "file": "pride-and-prejudice/50.webm",
+     "timing": "pride-and-prejudice/50.json",
+     "seconds": 861.2,
+     "bytes": 2725619
+    },
+    {
+     "title": "Chapter LI.",
+     "file": "pride-and-prejudice/51.webm",
+     "timing": "pride-and-prejudice/51.json",
+     "seconds": 807.7,
+     "bytes": 2505041
+    },
+    {
+     "title": "Chapter LII.",
+     "file": "pride-and-prejudice/52.webm",
+     "timing": "pride-and-prejudice/52.json",
+     "seconds": 1187.3,
+     "bytes": 3673601
+    },
+    {
+     "title": "Chapter LIII.",
+     "file": "pride-and-prejudice/53.webm",
+     "timing": "pride-and-prejudice/53.json",
+     "seconds": 1176.7,
+     "bytes": 3640969
+    },
+    {
+     "title": "Chapter LIV.",
+     "file": "pride-and-prejudice/54.webm",
+     "timing": "pride-and-prejudice/54.json",
+     "seconds": 661.7,
+     "bytes": 2046950
+    },
+    {
+     "title": "Chapter LV.",
+     "file": "pride-and-prejudice/55.webm",
+     "timing": "pride-and-prejudice/55.json",
+     "seconds": 968.2,
+     "bytes": 2989297
+    },
+    {
+     "title": "Chapter LVI.",
+     "file": "pride-and-prejudice/56.webm",
+     "timing": "pride-and-prejudice/56.json",
+     "seconds": 1150.1,
+     "bytes": 3511933
+    },
+    {
+     "title": "Chapter LVII.",
+     "file": "pride-and-prejudice/57.webm",
+     "timing": "pride-and-prejudice/57.json",
+     "seconds": 661.3,
+     "bytes": 2059551
+    },
+    {
+     "title": "Chapter LVIII.",
+     "file": "pride-and-prejudice/58.webm",
+     "timing": "pride-and-prejudice/58.json",
+     "seconds": 994.9,
+     "bytes": 3050065
+    },
+    {
+     "title": "Chapter LIX.",
+     "file": "pride-and-prejudice/59.webm",
+     "timing": "pride-and-prejudice/59.json",
+     "seconds": 1019.2,
+     "bytes": 3143279
+    },
+    {
+     "title": "Chapter LX.",
+     "file": "pride-and-prejudice/60.webm",
+     "timing": "pride-and-prejudice/60.json",
+     "seconds": 620.2,
+     "bytes": 1925905
+    },
+    {
+     "title": "Chapter LXI.",
+     "file": "pride-and-prejudice/61.webm",
+     "timing": "pride-and-prejudice/61.json",
+     "seconds": 507.6,
+     "bytes": 1610884
+    }
+   ],
+   "complete": true,
+   "seconds": 49087,
+   "bytes": 152920272
+  },
+  "sherlock-holmes": {
+   "chapters": [
+    {
+     "title": "I. A SCANDAL IN BOHEMIA",
+     "file": "sherlock-holmes/01.webm",
+     "timing": "sherlock-holmes/01.json",
+     "seconds": 3.9,
+     "bytes": 10621
+    },
+    {
+     "title": "I.",
+     "file": "sherlock-holmes/02.webm",
+     "timing": "sherlock-holmes/02.json",
+     "seconds": 1529.7,
+     "bytes": 4514776
+    },
+    {
+     "title": "II.",
+     "file": "sherlock-holmes/03.webm",
+     "timing": "sherlock-holmes/03.json",
+     "seconds": 1555.0,
+     "bytes": 4686710
+    },
+    {
+     "title": "III.",
+     "file": "sherlock-holmes/04.webm",
+     "timing": "sherlock-holmes/04.json",
+     "seconds": 476.1,
+     "bytes": 1410845
+    },
+    {
+     "title": "II. THE RED-HEADED LEAGUE",
+     "file": "sherlock-holmes/05.webm",
+     "timing": "sherlock-holmes/05.json",
+     "seconds": 3577.1,
+     "bytes": 10766053
+    },
+    {
+     "title": "III. A CASE OF IDENTITY",
+     "file": "sherlock-holmes/06.webm",
+     "timing": "sherlock-holmes/06.json",
+     "seconds": 2715.2,
+     "bytes": 8236420
+    },
+    {
+     "title": "IV. THE BOSCOMBE VALLEY MYSTERY",
+     "file": "sherlock-holmes/07.webm",
+     "timing": "sherlock-holmes/07.json",
+     "seconds": 3744.9,
+     "bytes": 11283185
+    },
+    {
+     "title": "V. THE FIVE ORANGE PIPS",
+     "file": "sherlock-holmes/08.webm",
+     "timing": "sherlock-holmes/08.json",
+     "seconds": 2902.3,
+     "bytes": 8770183
+    },
+    {
+     "title": "VI. THE MAN WITH THE TWISTED LIP",
+     "file": "sherlock-holmes/09.webm",
+     "timing": "sherlock-holmes/09.json",
+     "seconds": 3604.3,
+     "bytes": 10951079
+    },
+    {
+     "title": "VII. THE ADVENTURE OF THE BLUE CARBUNCLE",
+     "file": "sherlock-holmes/10.webm",
+     "timing": "sherlock-holmes/10.json",
+     "seconds": 3147.4,
+     "bytes": 9383641
+    },
+    {
+     "title": "VIII. THE ADVENTURE OF THE SPECKLED BAND",
+     "file": "sherlock-holmes/11.webm",
+     "timing": "sherlock-holmes/11.json",
+     "seconds": 3844.8,
+     "bytes": 11699550
+    },
+    {
+     "title": "IX. THE ADVENTURE OF THE ENGINEER’S THUMB",
+     "file": "sherlock-holmes/12.webm",
+     "timing": "sherlock-holmes/12.json",
+     "seconds": 3215.4,
+     "bytes": 9796207
+    },
+    {
+     "title": "X. THE ADVENTURE OF THE NOBLE BACHELOR",
+     "file": "sherlock-holmes/13.webm",
+     "timing": "sherlock-holmes/13.json",
+     "seconds": 3260.4,
+     "bytes": 9768959
+    },
+    {
+     "title": "XI. THE ADVENTURE OF THE BERYL CORONET",
+     "file": "sherlock-holmes/14.webm",
+     "timing": "sherlock-holmes/14.json",
+     "seconds": 3686.8,
+     "bytes": 11217458
+    },
+    {
+     "title": "XII. THE ADVENTURE OF THE COPPER BEECHES",
+     "file": "sherlock-holmes/15.webm",
+     "timing": "sherlock-holmes/15.json",
+     "seconds": 3762.9,
+     "bytes": 11479093
+    }
+   ],
+   "complete": true,
+   "seconds": 41026,
+   "bytes": 123974780
+  },
+  "the-secret-garden": {
+   "chapters": [
+    {
+     "title": "Chapter I. — THERE IS NO ONE LEFT",
+     "file": "the-secret-garden/01.webm",
+     "timing": "the-secret-garden/01.json",
+     "seconds": 716.5,
+     "bytes": 2216713
+    },
+    {
+     "title": "Chapter II. — MISTRESS MARY QUITE CONTRARY",
+     "file": "the-secret-garden/02.webm",
+     "timing": "the-secret-garden/02.json",
+     "seconds": 1034.6,
+     "bytes": 3157099
+    },
+    {
+     "title": "Chapter III. — ACROSS THE MOOR",
+     "file": "the-secret-garden/03.webm",
+     "timing": "the-secret-garden/03.json",
+     "seconds": 562.1,
+     "bytes": 1721118
+    },
+    {
+     "title": "Chapter IV. — MARTHA",
+     "file": "the-secret-garden/04.webm",
+     "timing": "the-secret-garden/04.json",
+     "seconds": 2126.2,
+     "bytes": 6357984
+    },
+    {
+     "title": "Chapter V — THE CRY IN THE CORRIDOR",
+     "file": "the-secret-garden/05.webm",
+     "timing": "the-secret-garden/05.json",
+     "seconds": 832.8,
+     "bytes": 2550631
+    },
+    {
+     "title": "Chapter VI. — “THERE WAS SOMEONE CRYING—THERE WAS!”",
+     "file": "the-secret-garden/06.webm",
+     "timing": "the-secret-garden/06.json",
+     "seconds": 838.1,
+     "bytes": 2596363
+    },
+    {
+     "title": "Chapter VII. — THE KEY TO THE GARDEN",
+     "file": "the-secret-garden/07.webm",
+     "timing": "the-secret-garden/07.json",
+     "seconds": 803.6,
+     "bytes": 2410103
+    },
+    {
+     "title": "Chapter VIII. — THE ROBIN WHO SHOWED THE WAY",
+     "file": "the-secret-garden/08.webm",
+     "timing": "the-secret-garden/08.json",
+     "seconds": 1017.8,
+     "bytes": 3110405
+    },
+    {
+     "title": "Chapter IX. — THE STRANGEST HOUSE ANYONE EVER LIVED IN",
+     "file": "the-secret-garden/09.webm",
+     "timing": "the-secret-garden/09.json",
+     "seconds": 1203.9,
+     "bytes": 3653512
+    },
+    {
+     "title": "Chapter X. — DICKON",
+     "file": "the-secret-garden/10.webm",
+     "timing": "the-secret-garden/10.json",
+     "seconds": 1495.1,
+     "bytes": 4444046
+    },
+    {
+     "title": "Chapter XI. — THE NEST OF THE MISSEL THRUSH",
+     "file": "the-secret-garden/11.webm",
+     "timing": "the-secret-garden/11.json",
+     "seconds": 1047.4,
+     "bytes": 3009457
+    },
+    {
+     "title": "Chapter XII. — “MIGHT I HAVE A BIT OF EARTH?”",
+     "file": "the-secret-garden/12.webm",
+     "timing": "the-secret-garden/12.json",
+     "seconds": 1106.2,
+     "bytes": 3205529
+    },
+    {
+     "title": "Chapter XIII. — “I AM COLIN”",
+     "file": "the-secret-garden/13.webm",
+     "timing": "the-secret-garden/13.json",
+     "seconds": 1679.4,
+     "bytes": 4881773
+    },
+    {
+     "title": "Chapter XIV. — A YOUNG RAJAH",
+     "file": "the-secret-garden/14.webm",
+     "timing": "the-secret-garden/14.json",
+     "seconds": 1483.9,
+     "bytes": 4371814
+    },
+    {
+     "title": "Chapter XV. — NEST BUILDING",
+     "file": "the-secret-garden/15.webm",
+     "timing": "the-secret-garden/15.json",
+     "seconds": 1491.7,
+     "bytes": 4469665
+    },
+    {
+     "title": "Chapter XVI. — “I WON’T!” SAID MARY",
+     "file": "the-secret-garden/16.webm",
+     "timing": "the-secret-garden/16.json",
+     "seconds": 906.8,
+     "bytes": 2721787
+    },
+    {
+     "title": "Chapter XVII. — A TANTRUM",
+     "file": "the-secret-garden/17.webm",
+     "timing": "the-secret-garden/17.json",
+     "seconds": 902.9,
+     "bytes": 2699846
+    },
+    {
+     "title": "Chapter XVIII. — “THA’ MUNNOT WASTE NO TIME”",
+     "file": "the-secret-garden/18.webm",
+     "timing": "the-secret-garden/18.json",
+     "seconds": 863.9,
+     "bytes": 2569089
+    },
+    {
+     "title": "Chapter XIX. — “IT HAS COME!”",
+     "file": "the-secret-garden/19.webm",
+     "timing": "the-secret-garden/19.json",
+     "seconds": 1382.3,
+     "bytes": 4145790
+    },
+    {
+     "title": "Chapter XX. — “I SHALL LIVE FOREVER—AND EVER—AND EVER!”",
+     "file": "the-secret-garden/20.webm",
+     "timing": "the-secret-garden/20.json",
+     "seconds": 1035.3,
+     "bytes": 3099642
+    },
+    {
+     "title": "Chapter XXI. — BEN WEATHERSTAFF",
+     "file": "the-secret-garden/21.webm",
+     "timing": "the-secret-garden/21.json",
+     "seconds": 1340.5,
+     "bytes": 3993713
+    },
+    {
+     "title": "Chapter XXII. — WHEN THE SUN WENT DOWN",
+     "file": "the-secret-garden/22.webm",
+     "timing": "the-secret-garden/22.json",
+     "seconds": 700.0,
+     "bytes": 2008101
+    },
+    {
+     "title": "Chapter XXIII. — MAGIC",
+     "file": "the-secret-garden/23.webm",
+     "timing": "the-secret-garden/23.json",
+     "seconds": 1610.6,
+     "bytes": 4805577
+    },
+    {
+     "title": "Chapter XXIV. — “LET THEM LAUGH”",
+     "file": "the-secret-garden/24.webm",
+     "timing": "the-secret-garden/24.json",
+     "seconds": 1529.4,
+     "bytes": 4636429
+    },
+    {
+     "title": "Chapter XXV. — THE CURTAIN",
+     "file": "the-secret-garden/25.webm",
+     "timing": "the-secret-garden/25.json",
+     "seconds": 869.1,
+     "bytes": 2661061
+    },
+    {
+     "title": "Chapter XXVI. — “IT’S MOTHER!”",
+     "file": "the-secret-garden/26.webm",
+     "timing": "the-secret-garden/26.json",
+     "seconds": 1221.7,
+     "bytes": 3641151
+    },
+    {
+     "title": "Chapter XXVII. — IN THE GARDEN",
+     "file": "the-secret-garden/27.webm",
+     "timing": "the-secret-garden/27.json",
+     "seconds": 1954.0,
+     "bytes": 5982678
+    }
+   ],
+   "complete": true,
+   "seconds": 31756,
+   "bytes": 95121076
+  },
+  "time-machine": {
+   "chapters": [
+    {
+     "title": "I. — Introduction",
+     "file": "time-machine/01.webm",
+     "timing": "time-machine/01.json",
+     "seconds": 759.5,
+     "bytes": 2266074
+    },
+    {
+     "title": "II. — The Machine",
+     "file": "time-machine/02.webm",
+     "timing": "time-machine/02.json",
+     "seconds": 532.7,
+     "bytes": 1603512
+    },
+    {
+     "title": "III. — The Time Traveller Returns",
+     "file": "time-machine/03.webm",
+     "timing": "time-machine/03.json",
+     "seconds": 816.6,
+     "bytes": 2481775
+    },
+    {
+     "title": "IV. — Time Travelling",
+     "file": "time-machine/04.webm",
+     "timing": "time-machine/04.json",
+     "seconds": 826.7,
+     "bytes": 2578998
+    },
+    {
+     "title": "V. — In the Golden Age",
+     "file": "time-machine/05.webm",
+     "timing": "time-machine/05.json",
+     "seconds": 634.2,
+     "bytes": 1999651
+    },
+    {
+     "title": "VI. — The Sunset of Mankind",
+     "file": "time-machine/06.webm",
+     "timing": "time-machine/06.json",
+     "seconds": 868.1,
+     "bytes": 2721869
+    },
+    {
+     "title": "VII. — A Sudden Shock",
+     "file": "time-machine/07.webm",
+     "timing": "time-machine/07.json",
+     "seconds": 871.9,
+     "bytes": 2728545
+    },
+    {
+     "title": "VIII. — Explanation",
+     "file": "time-machine/08.webm",
+     "timing": "time-machine/08.json",
+     "seconds": 1591.5,
+     "bytes": 5002392
+    },
+    {
+     "title": "IX. — The Morlocks",
+     "file": "time-machine/09.webm",
+     "timing": "time-machine/09.json",
+     "seconds": 815.0,
+     "bytes": 2557399
+    },
+    {
+     "title": "X. — When Night Came",
+     "file": "time-machine/10.webm",
+     "timing": "time-machine/10.json",
+     "seconds": 945.8,
+     "bytes": 2974566
+    },
+    {
+     "title": "XI. — The Palace of Green Porcelain",
+     "file": "time-machine/11.webm",
+     "timing": "time-machine/11.json",
+     "seconds": 931.5,
+     "bytes": 2939982
+    },
+    {
+     "title": "XII. — In the Darkness",
+     "file": "time-machine/12.webm",
+     "timing": "time-machine/12.json",
+     "seconds": 977.6,
+     "bytes": 3059044
+    },
+    {
+     "title": "XIII. — The Trap of the White Sphinx",
+     "file": "time-machine/13.webm",
+     "timing": "time-machine/13.json",
+     "seconds": 424.5,
+     "bytes": 1326503
+    },
+    {
+     "title": "XIV. — The Further Vision",
+     "file": "time-machine/14.webm",
+     "timing": "time-machine/14.json",
+     "seconds": 723.7,
+     "bytes": 2271864
+    },
+    {
+     "title": "XV. — The Time Traveller’s Return",
+     "file": "time-machine/15.webm",
+     "timing": "time-machine/15.json",
+     "seconds": 196.0,
+     "bytes": 613729
+    },
+    {
+     "title": "XVI. — After the Story",
+     "file": "time-machine/16.webm",
+     "timing": "time-machine/16.json",
+     "seconds": 662.1,
+     "bytes": 2012561
+    }
+   ],
+   "complete": true,
+   "seconds": 12577,
+   "bytes": 39138464
+  },
+  "wizard-of-oz": {
+   "chapters": [
+    {
+     "title": "Chapter I — The Cyclone",
+     "file": "wizard-of-oz/01.webm",
+     "timing": "wizard-of-oz/01.json",
+     "seconds": 424.4,
+     "bytes": 1330592
+    },
+    {
+     "title": "Chapter II — The Council with the Munchkins",
+     "file": "wizard-of-oz/02.webm",
+     "timing": "wizard-of-oz/02.json",
+     "seconds": 797.1,
+     "bytes": 2419638
+    },
+    {
+     "title": "Chapter III — How Dorothy Saved the Scarecrow",
+     "file": "wizard-of-oz/03.webm",
+     "timing": "wizard-of-oz/03.json",
+     "seconds": 764.4,
+     "bytes": 2309500
+    },
+    {
+     "title": "Chapter IV — The Road Through the Forest",
+     "file": "wizard-of-oz/04.webm",
+     "timing": "wizard-of-oz/04.json",
+     "seconds": 544.8,
+     "bytes": 1648502
+    },
+    {
+     "title": "Chapter V — The Rescue of the Tin Woodman",
+     "file": "wizard-of-oz/05.webm",
+     "timing": "wizard-of-oz/05.json",
+     "seconds": 759.9,
+     "bytes": 2314487
+    },
+    {
+     "title": "Chapter VI — The Cowardly Lion",
+     "file": "wizard-of-oz/06.webm",
+     "timing": "wizard-of-oz/06.json",
+     "seconds": 602.7,
+     "bytes": 1778821
+    },
+    {
+     "title": "Chapter VII — The Journey to the Great Oz",
+     "file": "wizard-of-oz/07.webm",
+     "timing": "wizard-of-oz/07.json",
+     "seconds": 669.1,
+     "bytes": 2045703
+    },
+    {
+     "title": "Chapter VIII — The Deadly Poppy Field",
+     "file": "wizard-of-oz/08.webm",
+     "timing": "wizard-of-oz/08.json",
+     "seconds": 743.3,
+     "bytes": 2256778
+    },
+    {
+     "title": "Chapter IX — The Queen of the Field Mice",
+     "file": "wizard-of-oz/09.webm",
+     "timing": "wizard-of-oz/09.json",
+     "seconds": 541.2,
+     "bytes": 1645746
+    },
+    {
+     "title": "Chapter X — The Guardian of the Gate",
+     "file": "wizard-of-oz/10.webm",
+     "timing": "wizard-of-oz/10.json",
+     "seconds": 767.3,
+     "bytes": 2317898
+    },
+    {
+     "title": "Chapter XI — The Wonderful City of Oz",
+     "file": "wizard-of-oz/11.webm",
+     "timing": "wizard-of-oz/11.json",
+     "seconds": 1385.0,
+     "bytes": 4192035
+    },
+    {
+     "title": "Chapter XII — The Search for the Wicked Witch",
+     "file": "wizard-of-oz/12.webm",
+     "timing": "wizard-of-oz/12.json",
+     "seconds": 1354.0,
+     "bytes": 4190636
+    },
+    {
+     "title": "Chapter XIII — The Rescue",
+     "file": "wizard-of-oz/13.webm",
+     "timing": "wizard-of-oz/13.json",
+     "seconds": 446.5,
+     "bytes": 1379497
+    },
+    {
+     "title": "Chapter XIV — The Winged Monkeys",
+     "file": "wizard-of-oz/14.webm",
+     "timing": "wizard-of-oz/14.json",
+     "seconds": 700.2,
+     "bytes": 2131416
+    },
+    {
+     "title": "Chapter XV — The Discovery of Oz, the Terrible",
+     "file": "wizard-of-oz/15.webm",
+     "timing": "wizard-of-oz/15.json",
+     "seconds": 1093.3,
+     "bytes": 3228574
+    },
+    {
+     "title": "Chapter XVI — The Magic Art of the Great Humbug",
+     "file": "wizard-of-oz/16.webm",
+     "timing": "wizard-of-oz/16.json",
+     "seconds": 398.8,
+     "bytes": 1154448
+    },
+    {
+     "title": "Chapter XVII — How the Balloon Was Launched",
+     "file": "wizard-of-oz/17.webm",
+     "timing": "wizard-of-oz/17.json",
+     "seconds": 442.1,
+     "bytes": 1319670
+    },
+    {
+     "title": "Chapter XVIII — Away to the South",
+     "file": "wizard-of-oz/18.webm",
+     "timing": "wizard-of-oz/18.json",
+     "seconds": 491.4,
+     "bytes": 1433569
+    },
+    {
+     "title": "Chapter XIX — Attacked by the Fighting Trees",
+     "file": "wizard-of-oz/19.webm",
+     "timing": "wizard-of-oz/19.json",
+     "seconds": 383.9,
+     "bytes": 1168859
+    },
+    {
+     "title": "Chapter XX — The Dainty China Country",
+     "file": "wizard-of-oz/20.webm",
+     "timing": "wizard-of-oz/20.json",
+     "seconds": 611.0,
+     "bytes": 1858701
+    },
+    {
+     "title": "Chapter XXI — The Lion Becomes the King of Beasts",
+     "file": "wizard-of-oz/21.webm",
+     "timing": "wizard-of-oz/21.json",
+     "seconds": 353.3,
+     "bytes": 1069425
+    },
+    {
+     "title": "Chapter XXII — The Country of the Quadlings",
+     "file": "wizard-of-oz/22.webm",
+     "timing": "wizard-of-oz/22.json",
+     "seconds": 371.2,
+     "bytes": 1128347
+    },
+    {
+     "title": "Chapter XXIII — Glinda The Good Witch Grants Dorothy’s Wish",
+     "file": "wizard-of-oz/23.webm",
+     "timing": "wizard-of-oz/23.json",
+     "seconds": 487.3,
+     "bytes": 1474588
+    },
+    {
+     "title": "Chapter XXIV — Home Again",
+     "file": "wizard-of-oz/24.webm",
+     "timing": "wizard-of-oz/24.json",
+     "seconds": 34.1,
+     "bytes": 100293
+    }
+   ],
+   "complete": true,
+   "seconds": 15166,
+   "bytes": 45897723
+  }
+ }
+}
